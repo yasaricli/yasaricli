@@ -9,7 +9,7 @@ Most of my time is spend working on **Open Source** projects.
 
 Also I like to and do support **Open Source** projects and currently.
 
-I am working as a *frontend developer* at [Tatilsepeti](https://github.com/tsepeti).
+I am working as a *Sr. Full Stack Developer* at [Tatilsepeti](https://github.com/tsepeti).
 
 **I want to make things that make a difference.**
 
