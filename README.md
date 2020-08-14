@@ -6,12 +6,9 @@ For the last `9 years` I have shifted most of my attention to **javascript**, es
 
 Most of my time is spend working on **Open Source** projects.
 
-
 Also I like to and do support **Open Source** projects and currently.
 
-I am working as a *Sr. Full Stack Developer* at [Tatilsepeti](https://github.com/tsepeti).
-
-**I want to make things that make a difference.**
+I am working as a *Frontend Team Lead* at [Tatilsepeti](https://github.com/tsepeti) and Game Developer at [Warhaos](https://github.com/warhaos)
 
 <!--
 **yasaricli/yasaricli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
