@@ -8,7 +8,7 @@ Most of my time is spend working on **Open Source** projects.
 
 Also I like to and do support **Open Source** projects and currently.
 
-I am working as a *Frontend Team Lead* at [Tatilsepeti](https://github.com/tsepeti) and founder at [Frontekip](https://github.com/frontekip)
+I am working as a *Frontend Team Lead* at [Tatilsepeti](https://github.com/tsepeti) and founder at [Oluup](https://www.oluup.com)
 
 <!--
 **yasaricli/yasaricli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
